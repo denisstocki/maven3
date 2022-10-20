@@ -36,6 +36,7 @@ public class Main {
         System.out.println();
 
         System.out.println("Studies are finished !");
+        System.out.println("Bye !");
         System.out.println();
     }
 }
